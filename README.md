@@ -1,6 +1,3 @@
-Here’s a **clean, professional README.md** tailored for your repo. You can copy-paste this directly into your GitHub project.
-
----
 
 # 📄 RAG PDF Viewer
 
